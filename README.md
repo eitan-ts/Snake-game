@@ -20,7 +20,7 @@ Enjoy the game!
 
 Feel free to submit pull requests, create issues, or request new features and enhancements.
 
-![snake_game](https://github.com/eitan-ts/Snake-game/assets/74111115/4851b929-f4f7-49c1-a5b9-7504ed797194)
+![snake_game](https://github.com/eitan-ts/Snake-game/assets/74111115/d98f60ea-ea29-40a4-9848-e0c7308941ad)
 
 
 
